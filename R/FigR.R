@@ -1,5 +1,5 @@
 ####### This code is for using FigR for gene regulation analysis
-
+####### https://github.com/liranmao/Spatial_multi_omics
 library(Seurat)
 library(Signac)
 library(ArchR)
