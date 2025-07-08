@@ -30,7 +30,7 @@ Replace barcode file (737K-cratac-v1.txt.gz) in /PATH/TO/cellranger-atac-2.1.0/l
 
 ## 3. Run the Analysis
 
-```÷÷bash
+```bash
 python spatial.py \
     --r1 Sample_L5_1.fq.gz \
     --r2 Sample_L5_2.fq.gz \
